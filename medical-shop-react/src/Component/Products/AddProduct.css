@@ -1,0 +1,33 @@
+.form1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.div1 label {
+    text-align: center;
+}
+
+.div1 input {
+    width: auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+.button1{
+    background-color: #c5c9ce;
+    color: #1d1b1b;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
